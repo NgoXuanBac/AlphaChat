@@ -1,1 +1,1 @@
-![1](https://github.com/NgoXuanBac/FStudyForum/blob/main/demo.png?raw=true)
+![1](https://github.com/NgoXuanBac/AlphaChat/blob/main/demo.png?raw=true)
